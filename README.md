@@ -56,29 +56,6 @@ Machine Learning • Deep Learning • CNNs • Data Preprocessing
 
 ---
 
-# 📌 Featured Projects
-
-## 🎤 VoiceTech Screener
-AI-powered voice interview platform for automated candidate screening using FastAPI, React, LLMs, and AssemblyAI.
-
-**Stack:** React.js • TypeScript • FastAPI • Supabase • WebSockets • Pytest • Vitest • Docker
-
----
-
-## 🩻 Bone Fracture Detection
-Deep learning model for medical image classification using CNNs and TensorFlow/PyTorch.
-
-**Stack:** Python • TensorFlow • PyTorch • NumPy • Deep Learning
-
----
-
-## 🏥 VitalDetect
-Medical dashboard for patient management and AI-assisted image analysis.
-
-**Stack:** React.js • Tailwind CSS • REST APIs
-
----
-
 # 🧪 Testing & Tools
 
 Pytest • Vitest • Docker • Git • GitHub • Postman
