@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Jose Andrés de la Ossa
 
-💻 Full Stack Developer focused on modern web applications, AI-powered systems, and scalable backend architectures.
+💻 Full Stack Developer focused on AI-powered applications, scalable backend architectures, and modern web development.
 
 🚀 Passionate about React, FastAPI, Python, Artificial Intelligence, and Data Science.
 
-🧠 Currently working on AI-driven solutions, automated interview systems, machine learning models, and modern full stack applications.
+🧠 Currently building AI-driven systems, machine learning projects, and modern full stack applications.
 
 📍 Santa Marta, Colombia
 
@@ -13,115 +13,66 @@
 # 🚀 Tech Stack
 
 ## Frontend
-
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
 </p>
-
----
 
 ## Backend
-
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 </p>
-
----
 
 ## Databases
-
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </p>
-
----
 
 ## AI & Data Science
-
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40" height="40"/>
 </p>
 
-- Machine Learning
-- Deep Learning
-- CNNs
-- Data Preprocessing
-
----
-
-## 🧪 Testing & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-</p>
-
-- Pytest
-- Vitest
-- API Testing
-- Unit Testing
-- Git & GitHub
-- Docker
-- Postman
+Machine Learning • Deep Learning • CNNs • Data Preprocessing
 
 ---
 
 # 📌 Featured Projects
 
 ## 🎤 VoiceTech Screener
-AI-powered voice interview platform for automated candidate screening.
+AI-powered voice interview platform for automated candidate screening using FastAPI, React, LLMs, and AssemblyAI.
 
-### Features
-- Voice-based AI interviews
-- Candidate profile validation
-- Real-time communication
-- Automated screening process
-- LLM integration
-
-### Stack
-React.js • TypeScript • FastAPI • Supabase • AssemblyAI • Groq • Google TTS • WebSockets • Pytest • Vitest • Docker
+**Stack:** React.js • TypeScript • FastAPI • Supabase • WebSockets • Pytest • Vitest • Docker
 
 ---
 
 ## 🩻 Bone Fracture Detection
-Deep learning model for medical image classification using convolutional neural networks (CNNs).
+Deep learning model for medical image classification using CNNs and TensorFlow/PyTorch.
 
-### Features
-- Medical image preprocessing
-- CNN-based classification
-- Model training & evaluation
-- Accuracy optimization
-
-### Stack
-Python • TensorFlow • PyTorch • NumPy • Machine Learning • Deep Learning
+**Stack:** Python • TensorFlow • PyTorch • NumPy • Deep Learning
 
 ---
 
 ## 🏥 VitalDetect
-Interactive medical dashboard for patient management and AI-assisted image analysis.
+Medical dashboard for patient management and AI-assisted image analysis.
 
-### Features
-- Patient data management
-- Medical dashboard
-- REST API integration
-- AI-assisted modules
-- Responsive UI
+**Stack:** React.js • Tailwind CSS • REST APIs
 
-### Stack
-React.js • Tailwind CSS • JavaScript • REST APIs
+---
+
+# 🧪 Testing & Tools
+
+Pytest • Vitest • Docker • Git • GitHub • Postman
 
 ---
 
@@ -133,11 +84,10 @@ React.js • Tailwind CSS • JavaScript • REST APIs
 
 # 🌱 Currently Learning
 
-- Advanced Backend Architectures
 - Cloud & DevOps
+- Advanced Backend Architectures
 - Machine Learning & AI
 - Scalable Systems Design
-- Advanced Testing Strategies
 
 ---
 
