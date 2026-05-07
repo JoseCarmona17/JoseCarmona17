@@ -79,6 +79,6 @@ Pytest • Vitest • Docker • Git • GitHub • Postman
 
 # 📫 Contact
 
-- 💼 LinkedIn: https://linkedin.com/in/TU-LINK
+- 💼 LinkedIn: https://www.linkedin.com/in/jose-andres-de-la-ossa-carmona-data-scientist/
 - 🌐 Portfolio: https://portfolio-josedelaossa.netlify.app
 - 📧 Email: joseandresdelaossa@gmail.com
